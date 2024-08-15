@@ -1,23 +1,65 @@
-# Welcome to My GitHub!
+# Moazzam Arif
 
-## About Me
-Hi, I'm Moazzam Arif, the CEO of BlockApex, a security-first blockchain consultation firm. With extensive experience in blockchain security, I've audited over 30 projects and developed cutting-edge solutions in tokenomics and marketplace architectures.
+**CEO & Head of Engineering at [BlockApex](https://blockapex.io) | Blockchain Security Auditor at [OakSecurity](https://www.oaksecurity.io/) & [Quill Audits](https://www.quillaudits.com/)**
 
-## Skills
-- **Programming Languages**: Go, Rust, Solidity, JavaScript
-- **Areas of Expertise**:
-  - Blockchain Audits (Appchains, Smart Contracts, Protocols)
-  - Tokenomics (Liquidity Bootstrapping, Provisioning, Governance)
-  - Solution Architectures (Gas-efficient Marketplaces)
+Welcome to my GitHub profile! I'm Moazzam Arif, the CEO and Head of Engineering at BlockApex, a security-first blockchain consultation firm. My expertise lies in blockchain security auditing, tokenomics design, and developing robust blockchain infrastructure. Over the course of my career, I’ve audited over 100 projects and analyzed approximately 500,000 lines of code, ensuring that distributed systems are secure, scalable, and efficient.
 
-## Projects
-- **[Project Name](link)**: Brief description of the project.
-- **[Project Name](link)**: Brief description of the project.
+## 🚀 BlockApex: A Comprehensive Blockchain Consultation Firm
 
-## Talks
-- **[Talk Title](link)**: Brief description of the talk.
-- **[Talk Title](link)**: Brief description of the talk.
+At BlockApex, we've developed three verticals to encompass the complete lifecycle of blockchain and distributed apps:
 
-## Contact
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+### 1. Token Engineering
+Our Token Engineering team consists of experts in finance/quants, economics, distributed system design, and formal methods. Unlike most security auditing firms, we focus on economic attacks—an area often overlooked but critical to the security of DeFi protocols.
+
+- **Services:** 
+  - Econometrics through the QTM framework
+  - Liquidity bootstrapping/provisioning using LBP by Balancer
+  - Optimized incentive mechanisms and yield farming
+  - Mechanism Design using ABM techniques
+  - Tokenomics Audits through Monte Carlo simulations, ABMs, stress testing, and scenario-based testing
+- **Research Focus:** DeFi, exchanges on EVM, Cosmos, and NEAR blockchain, AVS, governance, RWA, consensus design, formal verification, and AMM design.
+
+### 2. BlockApex Labs
+Our Labs division focuses on blockchain infrastructure and dApp development on EVM, Cosmos, NEAR, and Solana. We adopt a security-first approach, integrating security audits and threat modeling at every stage of development.
+
+- **Industries Served:** DeFi (AMMs, intents settlement, DSL for intents, cross-border decentralized payment solutions), X-to-earn platforms, TON games, RWA frameworks, and ongoing L2 projects.
+- **Development Philosophy:** Each iteration is threat modeled and validated by security auditors and token engineers. Our auditors turned developers bring a deep understanding of open-source projects, enabling the creation of high-quality, testable, and debuggable code.
+
+### 3. Security and Audits
+With over 100 projects audited, our Security and Audits vertical is dedicated to uncovering vulnerabilities and securing blockchain protocols. Notable findings and case studies will be available here soon.
+
+## 🛠️ Skills
+
+- **Blockchain Development:** Solidity, Rust, CosmWasm, Smart Contract Development
+- **Security Audits:** Vulnerability assessment, Threat modeling, Formal verification
+- **Tokenomics:** Design and analysis, Liquidity provisioning, Mechanism design, Incentive mechanisms
+- **Distributed Systems:** EVM, Cosmos, NEAR, Solana, Layer 2 solutions
+- **Software Engineering:** Microservices, SaaS tools, Cloud-centric solutions
+- **Programming Languages:** JavaScript, TypeScript, Python, Go, Rust
+
+## 📝 Projects
+
+### BlockApex - Token Engineering
+- **DeFi Research:** Two years of research into DeFi, focusing on exchanges on EVM, Cosmos, and NEAR blockchains.
+- **Simulation Codes:** Developed to serve as model testing tools during development and audits.
+- **Case Study - Cross-Border Payments:** Analyzed incentive compatibility using ABM techniques.
+
+### BlockApex Labs - Infrastructure Development
+- **AMMs & Intent Settlement:** Developed secure and efficient Automated Market Makers and intent settlement systems.
+- **Cross-Border Decentralized Payment Solutions:** Worked on DSLs for decentralized payments.
+- **X-to-Earn Platforms:** Contributed to the development of platforms including Watch-to-Earn and Play-to-Earn systems.
+
+### Security & Audits
+- **100+ Audited Projects:** Extensive experience in auditing blockchain protocols and uncovering critical vulnerabilities.
+- **Notable Findings:** Will be linked here soon.
+
+## 👨‍💻 Experience
+
+- **Blockchain Security Auditor:** OakSecurity & Quill Audits
+- **Tokenomics Design:** Specialized in designing robust and secure tokenomics models.
+- **Software Engineering:** Previously developed SaaS tools for the legal and healthcare industries.
+
+---
+
+Feel free to explore my repositories, where I'll be sharing insights, whitepapers, and reports from my work at BlockApex. If you're interested in collaborating or have any questions, don't hesitate to reach out!
+
