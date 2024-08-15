@@ -19,6 +19,8 @@ Our Token Engineering team consists of experts in finance/quants, economics, dis
   - Tokenomics Audits through Monte Carlo simulations, ABMs, stress testing, and scenario-based testing
 - **Research Focus:** DeFi, exchanges on EVM, Cosmos, and NEAR blockchain, AVS, governance, RWA, consensus design, formal verification, and AMM design.
 
+
+
 ### 2. BlockApex Labs
 Our Labs division focuses on blockchain infrastructure and dApp development on EVM, Cosmos, NEAR, and Solana. We adopt a security-first approach, integrating security audits and threat modeling at every stage of development.
 
@@ -37,12 +39,50 @@ With over 100 projects audited, our Security and Audits vertical is dedicated to
 - **Software Engineering:** Microservices, SaaS tools, Cloud-centric solutions
 - **Programming Languages:** JavaScript, TypeScript, Python, Go, Rust
 
-## 📝 Projects
 
-### BlockApex - Token Engineering
+### Token Engineering
 - **DeFi Research:** Two years of research into DeFi, focusing on exchanges on EVM, Cosmos, and NEAR blockchains.
 - **Simulation Codes:** Developed to serve as model testing tools during development and audits.
 - **Case Study - Cross-Border Payments:** Analyzed incentive compatibility using ABM techniques.
+
+
+**I've contributed to below listed projects at [BlockApex](https://blockapex.io)**
+#### Token Engineering Projects
+
+###### Play-to-Earn
+[Alien Fungi](https://github.com/imxm/Token-Engineering/tree/main/alienFungi)
+- **Description**: A play-to-earn game where players grow, trade, and battle unique fungal species. The project includes a detailed tokenomics model focused on incentivizing player engagement and creating a balanced in-game economy.
+
+###### Metaverse
+[Astra](https://github.com/imxm/Token-Engineering/tree/main/astra)
+- **Description**: A metaverse project designed to create an immersive virtual world with its own economy. The tokenomics involve creating a sustainable ecosystem where users can buy, sell, and trade virtual assets.
+
+###### DeFi Infrastructure
+[Elektirk](https://github.com/imxm/Token-Engineering/tree/main/elektirk)
+- **Description**: A decentralized exchange (DEX) infrastructure project focused on advanced trading strategies such as Dollar-Cost Averaging (DCA) and Time-Weighted Average Price (TWAP) orders. The project aims to optimize trading mechanisms in decentralized markets.
+
+[LBP-LL (Liquidity Bootstrapping for LightLink)](https://github.com/imxm/Token-Engineering/tree/main/LBP-LL)
+- **Description**: A liquidity bootstrapping project utilizing Balancer’s Liquidity Bootstrapping Pool (LBP) mechanism, specifically tailored for the LightLink ecosystem. It focuses on optimizing initial token distribution and liquidity provisioning.
+
+[LL-Airdrop](https://github.com/imxm/Token-Engineering/tree/main/LL_Airdrop)
+- **Description**: Airdrop strategy and tokenomics for the LightLink ecosystem. This project outlines the distribution mechanics and incentives for early adopters and contributors within the LightLink network.
+
+###### Cross-Border Payments
+[MIDL](https://github.com/imxm/Token-Engineering/tree/main/MIDL)
+- **Description**: A cross-border payment solution leveraging decentralized, crypto-backed custodians to facilitate international transactions. The tokenomics are designed to reduce costs and increase the efficiency of global payments.
+
+###### Miscellaneous
+[Push the Button](https://github.com/imxm/Token-Engineering/tree/main/PushTheButton)
+- **Description**: A unique experimental project involving game theory and community participation. Participants are incentivized through token rewards based on their timing and decisions in a communal game of "Push the Button."
+
+[Script TV](https://github.com/imxm/Token-Engineering/tree/main/script%20Tv)
+- **Description**: A decentralized video streaming platform where users are rewarded with tokens for their content and viewership. The project focuses on building a sustainable tokenomics model for content creators and consumers.
+
+###### Tokenomics Audits
+[Terra Audit](https://github.com/imxm/Token-Engineering/tree/main/Terra%20Audit)
+- **Description**: A thorough audit of the Terra/Luna ecosystem, focusing on economic vulnerabilities and stress testing the tokenomics model. The audit includes simulations and scenario analyses to identify potential risks and provide recommendations for improvement.
+
+
 
 ### BlockApex Labs - Infrastructure Development
 - **AMMs & Intent Settlement:** Developed secure and efficient Automated Market Makers and intent settlement systems.
