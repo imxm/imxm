@@ -47,7 +47,7 @@ With over 100 projects audited, our Security and Audits vertical is dedicated to
 
 
 **I've contributed to below listed projects at [BlockApex](https://blockapex.io)**
-#### Token Engineering Projects
+#### [Token Engineering Projects](https://github.com/imxm/Token-Engineering)
 
 ###### Play-to-Earn
 [Alien Fungi](https://github.com/imxm/Token-Engineering/tree/main/alienFungi)
