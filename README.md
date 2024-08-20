@@ -1,6 +1,6 @@
 # Moazzam Arif
 
-**CEO & Head of Engineering at [BlockApex](https://blockapex.io) | Blockchain Security Auditor at [OakSecurity](https://www.oaksecurity.io/) & [Quill Audits](https://www.quillaudits.com/)**
+**Head of Engineering at [BlockApex](https://blockapex.io) | Blockchain Security Auditor at [OakSecurity](https://www.oaksecurity.io/) & [Quill Audits](https://www.quillaudits.com/)**
 
 Welcome to my GitHub profile! I'm Moazzam Arif, the CEO and Head of Engineering at BlockApex, a security-first blockchain consultation firm. My expertise lies in blockchain security auditing, tokenomics design, and developing robust blockchain infrastructure. Over the course of my career, I’ve audited over 100 projects and analyzed approximately 500,000 lines of code, ensuring that distributed systems are secure, scalable, and efficient.
 
