@@ -15,7 +15,7 @@ Domains I have secured:
 * Wallets and custody: multisig on CosmWasm and Soroban, account abstraction, MPC-backed custody services
 * Regulated systems: custody, cross-border settlement and brokerage architecture for a large EMI wallet, with controls mapped for compliance review
 
-🧪 Authored the [Noir CTF challenges](https://github.com/oak-security/noir-ctf-challenges) published by Oak Security.
+🧪 Co-Authored the [Noir CTF challenges](https://github.com/oak-security/noir-ctf-challenges) published by Oak Security.
 
 🤖 AI-assisted security research
 
